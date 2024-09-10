@@ -1,6 +1,6 @@
 # <div id="header" align="center">
   <img src="https://media.giphy.com/media/Cvq24qG6mhbNDRiW42/giphy.gif" width="100"/>"¡Bienvenidos al ritmo de nuestra melodía! Aquí cada nota cuenta una historia."
-![banner viri1405](imagen.png)
+![banner viri1405](viri.png)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) 
 ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
